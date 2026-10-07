@@ -1,0 +1,30 @@
+# 内部工作文档
+交接报告.md
+修复报告-最终.md
+布尔系统修复报告.md
+Issue_Draft.md
+
+# 演示视频（验收参考，不随仓库发布）
+DemoVid.mp4
+
+# Claude / 辅助脚本与备份
+.claude/
+.claude_work/
+
+# Blender 自动备份与临时文件
+*.blend[0-9]*
+*.blend@
+*.autosave.blend
+quit.blend
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 开发用副本（只发布 Base）
+ProjectPulsar_Dev.blend
